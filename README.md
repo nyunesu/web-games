@@ -232,6 +232,8 @@ Those are the most reliable websites for someone making games in Unity for PC. T
 
 *\*Cool Math Games is the only website as far as I know that asks for game changes, although they're very reasonable with the changes and they're asked before you make the deal so you can evaluate if that's worth or not.*
 
+The average is from a collective of gamedevs that also sell their games to web.
+If you don't want to undersell your game is highly recommended that you don't sell it for a value below the average. Remember if your game has enough quality to be in their platforms you deserve to be paid (:
 
 
 ### Averages
