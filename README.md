@@ -127,8 +127,16 @@ You can also ask them afterwards if they would be interested in exclusivity or p
 It's pretty easy to pirate a game in the web, so you should at least take precautions of shady websites hosting your game without rights to do it.
 
 All I can provide to you is a Unity script for anti piracy, since that's all I have, but I'm pretty sure you can find more out there.
+You should not forget to import my "External.jslib" file from https://github.com/nyunesu/PNLib/blob/main/Plugins/External.jslib in your project in order to run my anti piracy script fine.
 
 ```cs
+using System.Collections;
+using System.Collections.Generic;
+using System.Runtime.InteropServices;
+using System.Text;
+using System.Linq;
+using UnityEngine;
+
 public class AntiPiracy : MonoBehaviour
 {
 	[SerializeField]
