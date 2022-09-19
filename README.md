@@ -287,5 +287,9 @@ The games that I used as reference to write this article:
 
 That's it guys, I hope this information can be useful for you.
 
-If you have questions, feel free to reach me out
+You can find a lot of questions and answer in the reddit post I did for this article:
+https://www.reddit.com/r/gamedev/comments/pvwkf0/how_i_sold_each_small_web_game_for_1900_and_how/
+
+
+If you have unanswered questions, feel free to reach me out
 [@nyunesu](https://twitter.com/nyunesu) or [nyunesu@gmail.com](mailto:nyunesu@gmail.com)
